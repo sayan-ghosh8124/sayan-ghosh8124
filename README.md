@@ -2,7 +2,7 @@
 - 👀 I’m interested in DATA SCIENCE
 - 🌱 I’m currently learning
       C and C++ and python
-       and NumPY and PANDAS
+       and PANDAS and MySQL
 - 💞️ I’m looking to collaborate with Google
 - 📫 How to reach me:sayan.ghosh8124@gmail.com
 <!---
