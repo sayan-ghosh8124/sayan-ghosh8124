@@ -1,7 +1,7 @@
 - 👋 Hi, I’m sayan-ghosh8124
 - 👀 I’m interested in DATA SCIENCE
 - 🌱 I’m currently learning
-      C and C++ and python
+      C++ and PHP and python
        and PANDAS and MySQL
 - 💞️ I’m looking to collaborate with Google
 - 📫 How to reach me:sayan.ghosh8124@gmail.com
