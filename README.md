@@ -7,7 +7,7 @@
 
 - - 🌱 I’m currently learning **C++ and PYTHON and DSA and DBMS**
 
-- - 💞️ I’m looking to collaborate with **Google**
+- - 💞️ I’m looking to collaborate with **Google AND ORACLE**
 
 - - 📫 How to reach me: **sayan.ghosh8124@gmail.com**
 
