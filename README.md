@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan-ghosh8124&label=Profile%20views&color=0e75b6&style=flat" alt="sayan-ghosh8124" /> </p>
 
-- - 🌱 I’m currently learning **C++ and PHP and python and PANDAS and MySQL and Power BI and DBMS**
+- - 🌱 I’m currently learning **C++ and PYTHON and DSA and DBMS**
 
 - - 💞️ I’m looking to collaborate with **Google**
 
