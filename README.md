@@ -6,8 +6,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan-ghosh8124&label=Profile%20views&color=0e75b6&style=flat" alt="sayan-ghosh8124" /> </p>
 
+### Talking about Personal Stuffs:
+
+- -👨‍🎓 I'm a ** CSE Student **
+  
 - - 🌱 I’m currently learning **C++ and PYTHON and DSA and DBMS**
 
+- -💬 Ask me about anything, I am happy to help
+  
+- - 👯 Join my community if you're a tech enthusiast
+    
 - - 💞️ I’m looking to collaborate with **Google AND ORACLE**
 
 - - 📫 How to reach me: **sayan.ghosh8124@gmail.com**
