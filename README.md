@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sayan Ghosh</h1>
+# Welcome to Sayan Ghosh profile! <a href="#" target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
 <h3 align="center">- 👀 I’m interested in DATA SCIENCE AND WEB DEVELOPER</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
