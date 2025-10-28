@@ -8,6 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan-ghosh8124&label=Profile%20views&color=0e75b6&style=flat" alt="sayan-ghosh8124"/> </p>
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
+
 ### Talking about Personal Stuffs:
 
 - -👨‍🎓 I'm a ** CSE Student **
@@ -36,7 +39,6 @@
 <p><a href="#"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan-ghosh8124&show_icons=true&locale=en&layout=compact" alt="sayan-ghosh8124" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayan-ghosh8124&show_icons=true&locale=en" alt="sayan-ghosh8124" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayan-ghosh8124&" alt="sayan-ghosh8124" /></p>
 
