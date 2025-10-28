@@ -2,7 +2,9 @@
 
 <h3 align="center">- 👀 I’m interested in DATA SCIENCE AND WEB DEVELOPER</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Sayan+Ghosh;Welcome+to+my+README" alt="Typing SVG" /></a>
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan-ghosh8124&label=Profile%20views&color=0e75b6&style=flat" alt="sayan-ghosh8124"/> </p>
 
