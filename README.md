@@ -1,6 +1,6 @@
 # Welcome to Sayan Ghosh profile! <a href="#" target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<h3 align="center">- 👀 I’m interested in DATA SCIENCE AND WEB DEVELOPER</h3>
+<h3 align="center">- 👀 I’m interested in ML & DATA SCIENCE Engineer</h3>
 
 <h1 align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Sayan+Ghosh;Welcome+to+my+README" alt="Typing SVG" /></a>
